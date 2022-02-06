@@ -18,7 +18,8 @@
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshaman&show_icons=true&theme=tokyonight) &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshaman&layout=compact&theme=tokyonight)
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshaman&theme=tokyonight)](https://git.io/streak-stats)
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshaman&theme=tokyonight)
+ 
 
 <img align="right" alt="GIF" src="https://github.com/harshaman/harshaman/blob/main/code.gif?raw=true" width="500" height="320" />
 
