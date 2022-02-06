@@ -8,7 +8,6 @@
 
 [![Aman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amanharsh&theme=tokyonight)]
 
-![](<figure><embed src="https://wakatime.com/share/@amanharsh/d41ca5f8-1423-4403-96bb-0bcf2441cdcf.svg"></embed></figure>)
 
 <!--
 **harshaman/harshaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
