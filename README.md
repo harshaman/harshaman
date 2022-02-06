@@ -17,7 +17,7 @@
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshaman&show_icons=true&theme=tokyonight) &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshaman&layout=compact&theme=tokyonight)
 
-<img align="right" alt="GIF" src="https://github.com/harshaman/harshaman/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/harshaman/harshaman/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ## Technologies & Tools
 
