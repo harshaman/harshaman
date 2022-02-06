@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshaman&layout=compact&theme=tokyonight)]
 
-[![Aman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harshaman&theme=tokyonight)]
+[![Aman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amanharsh&theme=tokyonight)]
 
 <!--
 **harshaman/harshaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
