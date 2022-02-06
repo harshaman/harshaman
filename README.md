@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=harshaman&color=brightgreen)
 
-https://github.com/harshaman/github-readme-stats
+https://github-readme-stats.vercel.app/api?username=harshaman&show_icons=true&theme=radical
 
 <!--
 **harshaman/harshaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
