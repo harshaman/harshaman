@@ -19,7 +19,7 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github-readme-stats.vercel.app"><img alt="Aman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshaman&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="192px"/></a>
+    <a href="https://github-readme-stats.vercel.app"><img alt="Aman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshaman&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="192px"/></a><span>&nbsp;</span>
   <a href="https://github-readme-stats.vercel.app/api/top-langs"><img alt="Aman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaman&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -28,7 +28,9 @@
  <details>
   <summary> 🔥 Streak stats</summary>
     <br/>
+  <p align="center">
      <a href="https://github-readme-streak-stats.herokuapp.com"><img alt="Aman's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=harshaman&theme=tokyonight&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="192px"/></a>
+  </p>
  </details>
 <img align="right" alt="GIF" src="https://github.com/harshaman/harshaman/blob/main/code.gif?raw=true" width="500" height="320" />
 
