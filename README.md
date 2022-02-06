@@ -10,7 +10,7 @@
   <img align="left" alt="Aman's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://music.youtube.com/channel/UC5XuopFkzwCUGhvwxohRldQ">
-  <img align="left" alt="Aman's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Aman's Spotify" width="22px" src="https://github.com/harshaman/harshaman/blob/main/Youtube_Music_icon.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=harshaman.harshaman) &nbsp; ![](https://komarev.com/ghpvc/?username=harshaman&color=brightgreen)
