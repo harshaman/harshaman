@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshaman&layout=compact&theme=tokyonight)]
 
-[![Aman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amanharsh&theme=tokyonight)]
+<!--[![Aman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amanharsh&theme=tokyonight)]-->
 
 
 <!--
