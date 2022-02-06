@@ -12,10 +12,13 @@
 <a href="https://music.youtube.com/channel/UC5XuopFkzwCUGhvwxohRldQ">
   <img align="left" alt="Aman's Spotify" width="22px" src="https://github.com/harshaman/harshaman/blob/main/Youtube_Music_icon.svg" />
 </a>
+<br/>
 
-![](https://visitor-badge.glitch.me/badge?page_id=harshaman.harshaman) &nbsp; ![](https://komarev.com/ghpvc/?username=harshaman&color=brightgreen)
+## 📊 Github stats
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshaman&show_icons=true&theme=tokyonight) &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshaman&layout=compact&theme=tokyonight)
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshaman&theme=tokyonight)](https://git.io/streak-stats)
 
 <img align="right" alt="GIF" src="https://github.com/harshaman/harshaman/blob/main/code.gif?raw=true" width="500" height="320" />
 
@@ -54,3 +57,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+<!--![](https://visitor-badge.glitch.me/badge?page_id=harshaman.harshaman) &nbsp; -->
+![](https://komarev.com/ghpvc/?username=harshaman&color=brightgreen)
+
