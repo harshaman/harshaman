@@ -14,7 +14,7 @@
 </a>
 <br/>
 
-## 📊 Github stats
+## 📊 Github Stats
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
@@ -26,7 +26,7 @@
 </details>
 
  <details>
-  <summary> 🔥 Streak stats</summary>
+  <summary> 🔥 Streak Stats</summary>
     <br/>
   <p align="center">
      <a href="#"><img alt="Aman's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=harshaman&theme=tokyonight&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="192px"/></a>
