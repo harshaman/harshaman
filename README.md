@@ -1,5 +1,5 @@
 ## Hello, folks! 👋
-### My name is Aman Harsh and I am a Software Developer, currently pursuing my Masters in Computer Science and Engineering at University at Buffalo. You can find me on:
+### My name is Aman Harsh and I am a Software Developer, currently pursuing my Masters in Computer Science and Engineering at University at Buffalo. You can find me on -
 <a href="https://discord.gg/aSfjCR95">
   <img align="left" alt="Aman's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
