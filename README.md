@@ -43,6 +43,7 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
 ![](https://img.shields.io/badge/Code-RxJava-informational?style=flat&logo=reactivex&logoColor=white&color=B7178C)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Tools-Spring-informational?style=flat&logo=spring&logoColor=white&color=6DB33F)
@@ -54,6 +55,7 @@
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=D24939)
 ![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=sonarqube&logoColor=white&color=4E9BCD)
 ![](https://img.shields.io/badge/Tools-CockroachDB-informational?&logo=cockroachlabs&logoColor=white&color=6933FF)
+![](https://img.shields.io/badge/Tools-Goland-informational?&logo=goland&logoColor=white&color=000000)
 <!--[![Aman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amanharsh&theme=tokyonight)]-->
 
 
