@@ -1,5 +1,11 @@
 ## Hello, folks! 👋
-### My name is Aman Harsh and I am a Software Developer, currently pursuing my Masters in Computer Science and Engineering at University at Buffalo. You can find me on -
+### My name is Aman Harsh and I am a Software Developer, currently pursuing my Masters in Computer Science and Engineering at University at Buffalo. 
+
+### My specialities include quickly learning new skills and programming languages, problem solving, working in an agile environment, object oriented design, and the MVC method of organising code. So far, I have Java, Spring Framework, MyBatis, Python, C/C++, ReactiveX Java, REST, Javascript, Apache Solr, Android, PostgreSQL, CockroachDB, MongoDB, HTML, CSS, JSP, Jenkins and Git/Github under my belt. I've started learning GoLang, React.JS and Machine Learning. 
+
+### Few other software tools that I've gained hands-on experience on include Postman, Swagger, Retrofit, Ant, Maven, Gradle, Sonar and Adobe Photoshop. 
+
+### I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head.You can find me on -
 <a href="https://discord.gg/aSfjCR95">
   <img align="left" alt="Aman's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
