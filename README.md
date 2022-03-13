@@ -5,7 +5,9 @@
 
 ### Few other software tools that I've gained hands-on experience on include Postman, Swagger, Retrofit, Ant, Maven, Gradle, Sonar and Adobe Photoshop. 
 
-### I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head.You can find me on -
+### I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head. 
+
+### Find me on -
 <a href="https://discord.gg/aSfjCR95">
   <img align="left" alt="Aman's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
