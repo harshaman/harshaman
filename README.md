@@ -1,7 +1,7 @@
 ## Hello, folks! 👋
 ### My name is Aman Harsh and I am a Software Developer, currently pursuing my Masters in Computer Science and Engineering at University at Buffalo. 
 
-### My specialities include quickly learning new skills and programming languages, problem solving, working in an agile environment, object oriented design, and the MVC method of organising code. So far, I have Java, Spring Framework, MyBatis, Python, C/C++, ReactiveX Java, REST, Javascript, Apache Solr, Android, PostgreSQL, CockroachDB, MongoDB, HTML, CSS, JSP, Jenkins and Git/Github under my belt. I've started learning GoLang, React.JS and Machine Learning. 
+### My specialities include quickly learning new skills and programming languages, problem solving, working in an agile environment, object oriented design, and the MVC method of organising code. So far, I have Java, Spring Framework, MyBatis, Python, C/C++, ReactiveX Java, REST, Javascript, Apache Solr, Android, PostgreSQL, CockroachDB, MongoDB, HTML, CSS, JSP, Jenkins and Git/Github under my belt. I've started learning Golang, React.JS and Machine Learning. 
 
 ### Few other software tools that I've gained hands-on experience on include Postman, Swagger, Retrofit, Ant, Maven, Gradle, Sonar and Adobe Photoshop. 
 
