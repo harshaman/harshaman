@@ -64,6 +64,7 @@
 ![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=sonarqube&logoColor=white&color=4E9BCD)
 ![](https://img.shields.io/badge/Tools-CockroachDB-informational?&logo=cockroachlabs&logoColor=white&color=6933FF)
 ![](https://img.shields.io/badge/Tools-Goland-informational?&logo=goland&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Tools-InfluxDB-informational?&logo=influxdb&logoColor=white&color=22ADF6)
 <!--[![Aman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amanharsh&theme=tokyonight)]-->
 
 
