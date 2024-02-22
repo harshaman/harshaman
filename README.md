@@ -1,5 +1,5 @@
 ## Hello, folks! 👋
-### My name is Aman Harsh and I am a Software Developer, currently pursuing my Masters in Computer Science and Engineering at University at Buffalo. 
+### My name is Aman Harsh and I am a Masters grad majoring in Computer Science and Engineering from University at Buffalo, SUNY, currently working as a Full-Stack Software Developer at Expedia Group. 
 
 ### My specialities include quickly learning new skills and programming languages, problem solving, working in an agile environment, object oriented design, and the MVC method of organising code. So far, I have Java, Spring Framework, MyBatis, Python, C/C++, ReactiveX Java, REST, Javascript, Apache Solr, Android, PostgreSQL, CockroachDB, MongoDB, HTML, CSS, JSP, Jenkins and Git/Github under my belt. I've started learning Golang, React.JS and Machine Learning. 
 
@@ -65,6 +65,9 @@
 ![](https://img.shields.io/badge/Tools-CockroachDB-informational?&logo=cockroachlabs&logoColor=white&color=6933FF)
 ![](https://img.shields.io/badge/Tools-Goland-informational?&logo=goland&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Tools-InfluxDB-informational?&logo=influxdb&logoColor=white&color=22ADF6)
+![](https://img.shields.io/badge/Code-Node.Js-informational?logo=node.js&logoColor=white&color=22DFA6)
+![](https://img.shields.io/badge/Code-React.Js-informational?logo=react.js&logoColor=white&color=F3EDA1)
+![](https://img.shields.io/badge/Code-GraphQL-informational?logo=graphql&logoColor=white&color=294A61)
 <!--[![Aman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amanharsh&theme=tokyonight)]-->
 
 
