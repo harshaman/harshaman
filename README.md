@@ -9,13 +9,13 @@
 
 ### Find me on -
 <a href="https://discord.gg/aSfjCR95">
-  <img align="left" alt="Aman's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Aman's Discord" width="22px" src="https://github.com/harshaman/harshaman/blob/main/discord.webp" />
 </a>
 <a href="https://twitter.com/amanharsh">
-  <img align="left" alt="Aman Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Aman Naidu | Twitter" width="22px" src="https://github.com/harshaman/harshaman/blob/main/twitter-x.webp" />
 </a>
-<a href="https://www.linkedin.com/in/harshamann3/">
-  <img align="left" alt="Aman's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/harshaman3/">
+  <img align="left" alt="Aman's LinkedIn" width="22px" src="https://github.com/harshaman/harshaman/blob/main/LinkedIn_icon.webp" />
 </a>
 <a href="https://music.youtube.com/channel/UC5XuopFkzwCUGhvwxohRldQ">
   <img align="left" alt="Aman's Spotify" width="22px" src="https://github.com/harshaman/harshaman/blob/main/Youtube_Music_icon.svg" />
